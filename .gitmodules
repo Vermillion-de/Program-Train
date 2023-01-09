@@ -1,0 +1,12 @@
+[submodule "ml/PyTorch-Vision-Transformer-ViT-MNIST"]
+	path = ml/PyTorch-Vision-Transformer-ViT-MNIST
+	url = git@github.com:s-chh/PyTorch-Vision-Transformer-ViT-MNIST.git
+[submodule "ml/pytorch-CycleGAN-and-pix2pix"]
+	path = ml/pytorch-CycleGAN-and-pix2pix
+	url = git@github.com:junyanz/pytorch-CycleGAN-and-pix2pix
+[submodule "TODO/avatar/smplify-x"]
+	path = TODO/avatar/smplify-x
+	url = git@github.com:vchoutas/smplify-x
+[submodule "ml/ML2022-Spring"]
+	path = ml/ML2022-Spring
+	url = git@github.com:virginiakm1988/ML2022-Spring
